@@ -2,7 +2,7 @@
 
 **Accepted to ICML 2026**
 
-<img width="1036" alt="Image" src="[https://github.com/user-attachments/assets/cdd84e20-182b-4820-9965-1595c80a8598](https://github.com/mast-team/MAFE-Multi-agent-Fair-Environments/blob/main/MAFE_Overview.png)" />
+![MAFE Overview](MAFE_Overview.png)
 
 ## Description
 
