@@ -40,13 +40,12 @@ python main.py "Education_Environment"
 
 ## Citation
 
-If you use this work in your research, please cite our preprint available on arXiv:
+If you use this work in your research, please cite our paper:
 
 ```bibtex
-@article{lazri2025mafe,
-  title   = {MAFE: Multi-Agent Fair Environments for Decision-Making Systems},
-  author  = {Lazri, Zachary McBride and Nakra, Anirudh and Brugere, Ivan and Dervovic, Danial and Polychroniadou, Antigoni and Huang, Furong and Dachman-Soled, Dana and Wu, Min},
-  journal = {arXiv preprint arXiv:2502.18534},
-  year    = {2025}
-}
+@InProceedings{pmlr-v306-lazri26a,
+  title = 	 {{MAFE}: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems},
+  author =       {Lazri, Zachary Mcbride and Nakra, Anirudh and Brugere, Ivan and Dervovic, Danial and Polychroniadou, Antigoni and Huang, Furong and Dachman-Soled, Dana and Wu, Min},
+  booktitle = 	 {Proceedings of the 43rd International Conference on Machine Learning 2026},
+  publisher =    {PMLR}
 ```
