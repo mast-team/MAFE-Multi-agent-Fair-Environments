@@ -1,6 +1,6 @@
 # MAFE: Multi-Agent Fair Environments for Decision-Making Systems
 
-**Accepted to ICML 2026**
+**Published at ICML 2026**
 
 ![MAFE Overview](MAFE_Overview.png)
 
@@ -9,7 +9,7 @@
 This repository contains the code for the Loan, Healthcare, and Education MAFEs discussed in our paper:
 
 **MAFE: Multi-Agent Fair Environments for Decision-Making Systems**  
-Accepted to **ICML 2026**.
+Published at **ICML 2026**.
 
 ## Requirements
 
